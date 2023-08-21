@@ -1,0 +1,8 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "Paste endpoint",
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "hccyclopsservicebus_SERVICEBUS": "Paste endpoint"
+  }
+}
